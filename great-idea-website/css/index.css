@@ -64,3 +64,45 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+#logo-img {
+	text-align: right;
+	padding: 0 10px  ;
+   }
+   nav{
+	 color: gray;
+	 text-align: center;
+	 word-spacing: 65px;
+   }
+   
+   h1{
+	text-align: center;
+	 width: 40%;
+	 font-size: 60px;
+   }
+   
+   h4{
+	 text-align: center;
+	 width: 40%;
+	 background: white;
+	 border:1px solid black;
+   }
+   #header-img{
+	 text-align: center;
+	 padding: 0 0 10px;
+	 width: 40%;
+	 margin-left: 326px;
+   }
+   
+   .box{
+	 display:inline-block;
+	 width:25%;
+	 margin:0 1.5%;
+   }
+   #middle-image{
+   text-align: center;
+   width 100%;
+   }
+   footer{
+	 text-align: center;
+	 margin: 5%;
+   }
